@@ -1,0 +1,6 @@
+export const DEFAULT_COLOR_SCHEME = 'teal'
+export const DESCRIPTION = 'on air - live stream on web3 social'
+export const IMAGE_OG = '/resources/images/logo.png'
+export const SITE_URL = ''
+export const SOCIAL_HANDLE = ''
+export const TITLE = 'on air'
