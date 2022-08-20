@@ -109,7 +109,7 @@ const { provider, chains } = configureChains(
 // ])
 
 const { connectors } = getDefaultWallets({
-  appName: 'dcom.market',
+  appName: 'on-air',
   chains
 });
 const wagmiClient = createClient({
